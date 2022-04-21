@@ -10,4 +10,4 @@
 
 ## Preview
 
-[!ERD](/assets/erd/erd.png)
+![ERD](/assets/erd/erd.png)
