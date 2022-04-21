@@ -7,3 +7,7 @@
 <div align="center">
   <p>This was a two-week group project as part of a full-stack development bootcamp</p>
 </div>
+
+## Preview
+
+[!ERD](/assets/erd/erd.png)
