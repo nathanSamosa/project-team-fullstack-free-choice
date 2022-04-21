@@ -10,4 +10,4 @@
 
 ## Preview
 
-![ERD](/assets/erd/erd.png)
+<img src="/assets/erd/erd.png" alt="development ERD" width="1000px" />
